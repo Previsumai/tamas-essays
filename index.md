@@ -1,3 +1,5 @@
+![](cover-A-cethal-hatan.png)
+
 # A cethal hátán
 
 ## Európa technológiai illúziói és a globális polikrízis realizmusa
