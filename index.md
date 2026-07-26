@@ -54,6 +54,6 @@ Tamás Regenyi has more than three decades of experience in technology, telecomm
 
 ---
 
-## Contact
+## Connect
 
 LinkedIn: [Tamás Regenyi on LinkedIn](https://www.linkedin.com/in/tamas-regenyi-1a1390/)
