@@ -33,7 +33,7 @@ Ebben az esszében összehasonlításra kerül az **oxidáció** a **korrózióv
 
 ## Download the full essay
 
-📄 [Download the full essay PDF](pdf/Regenyi-Tamas-A-korrodaciorol-2026.pdf)
+📄 [Download the full essay PDF](pdf/Tamas-Regenyi-A-korrodaciorol-2026.pdf)
 
 ---
 
