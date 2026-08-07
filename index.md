@@ -1,41 +1,38 @@
+# Tamás Regenyi
+
+## Essays & Publications
+
+---
+
+### Latest Publication
+
 # A cethal hátán
 
-## Európa technológiai illúziói és a globális polikrízis realizmusa
+### Európa technológiai illúziói és a globális polikrízis realizmusa
 
-*Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fogságáról és az elengedés bölcsességéről*
+Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fogságáról és az elengedés bölcsességéről.
 
----
-
-**Author:** Tamás Regenyi  
-**Published:** July 2026
+[Read the essay →](A-cethal-hatan.md)
 
 ---
 
-## Executive Summary
+### Publication
 
-Hamarosan feltöltve.
+# A korrózióról
 
----
-# A cethal hátán
+### Ami oxidál, az rozsdásodik is?
 
-## Európa technológiai illúziói és a globális polikrízis realizmusa
+Ismeretterjesztő tanulmány  
+Tájékoztatás és gondolatébresztés céljára.
 
-*Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fogságáról és az elengedés bölcsességéről*
-
----
-
-**Author:** Tamás Regenyi  
-**Published:** July 2026
+[Read the essay →](A-korroziorol.md)
 
 ---
 
-## Executive Summary
+## About the Author
 
-Ez a tanulmány a 2026-os európai és magyar IT és MI technológiai döntések (mint az **EuroHPC JU MI-gigagyárak**, az **IRIS² műholdprogram** és a nemzeti hozzájárulási megállapodások) mögött húzódó nyers geopolitikai és gazdasági realitásokat elemzi. A politikai kommunikáció felszíni rétegeit lehántva a mű egy rendszerszintű kritikát fogalmaz meg Európa és Magyarország jövőképével kapcsolatban.
+Tamás Regenyi is a technology executive and AI transformation advisor with more than three decades of experience in telecommunications, digital transformation, healthcare AI and digital pathology.
 
+He has held leadership positions at Ericsson, Cisco, 3DHISTECH and Aiforia.
 
-Tamás Regenyi
-
-Essays & Publications
-
-Latest publication
+[Connect on LinkedIn →](https://www.linkedin.com/in/tamas-regenyi-1a1390/)
