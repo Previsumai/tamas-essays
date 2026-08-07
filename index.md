@@ -18,6 +18,18 @@ Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fo
 
 ### Publication
 
+# A "2-es csapdája
+
+### Hogyan védekezik az immunrendszer a tumor ellen? vs Hogyan védekezik a tumor az immunrendszer ellen?
+
+Átfogó tudományos esszé az immun-onkológia alapjairól, a daganatos ellenálló képességről, az ellenőrzőpont-gátló terápiákról és a személyre szabott 3D organoid modellekről
+
+[Read the essay →](A-korrodaciorol.md)
+
+---
+
+### Publication
+
 # A korrózióról
 
 ### Ami oxidál, az rozsdásodik is?
