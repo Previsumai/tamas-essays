@@ -25,7 +25,7 @@ Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fo
 Ismeretterjesztő tanulmány  
 Tájékoztatás és gondolatébresztés céljára.
 
-[Read the essay →](A-korroziorol.md)
+[Read the essay →](A-korrodaciorol.md)
 
 ---
 
