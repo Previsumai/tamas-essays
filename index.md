@@ -31,8 +31,7 @@ Tájékoztatás és gondolatébresztés céljára.
 
 ## About the Author
 
-Tamás Regenyi is a technology executive and AI transformation advisor with more than three decades of experience in telecommunications, digital transformation, healthcare AI and digital pathology.
-
-He has held leadership positions at Ericsson, Cisco, 3DHISTECH and Aiforia.
+Tamás Regenyi is a AI transformation advisor with more than three decades of experience in telecommunications, digital transformation, healthcare AI and digital pathology. 
+He has held leadership and executive positions at Ericsson, Cisco Systems, 3DHISTECH and Aiforia.
 
 [Connect on LinkedIn →](https://www.linkedin.com/in/tamas-regenyi-1a1390/)
