@@ -46,7 +46,7 @@ A tanulmány a pusztító **fogolydilemma** elutasítása mellett érvel. Az egy
 
 ## Download the full essay
 
-📄 [Download the full essay PDF](Regenyi-Tamas-A-cethal-hatan-2026.pdf)
+📄 [Download the full essay PDF](pdf/Regenyi-Tamas-A-cethal-hatan-2026.pdf)
 
 ---
 
