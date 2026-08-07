@@ -1,4 +1,4 @@
-![](cover-A-cethal-hatan-2026.png)
+![](assets/cover-A-cethal-hatan-2026.png)
 
 # A cethal hátán
 
