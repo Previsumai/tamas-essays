@@ -24,6 +24,8 @@ The goal is to share practical insights, independent perspectives, and strategic
 ## Essays
 A cethal hátán: Európa technológiai illúziói és a globális polikrízis realizmusa | Published |
 
+Az atomreaktorok hűtése, szerkezete és jövője: Pakstól az Adatközpontok Szimbiózisáig | Published |
+
 The Hungarian Digital Pathology Strategy | Not Published Yet |
 
 *(More essays coming soon)*
