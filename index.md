@@ -30,7 +30,7 @@ Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fo
 
 ### Publication
 
-# Az Atomerőművek hűtése, Szerkezete és Jövője
+# Az Atomerőművek hűtése, szerkezete és jövője
 
 ### Az Atomerőműtől az Adatközpontok Szimbiózisáig
 
