@@ -4,7 +4,7 @@
 
 ## Pakstól az Adatközpontok Szimbiózisáig
 
-*Tudományos ismeretterjesztő tanulmány az atomreaktorok hűtéséről az adatközpontokkal való potenciális kooperációról*
+*Tudományos ismeretterjesztő tanulmány az atomreaktorok hűtéséről és az adatközpontokkal való potenciális kooperációról*
 
 ---
 
