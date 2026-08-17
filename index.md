@@ -36,7 +36,7 @@ Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fo
 
 Tudományos-ismeretterjesztő tanulmány az atomreaktorok hűtéséről és az adatközpontokkal való potenciális kooperációról
 
-[Read the essay →](Atomeromuvek-hutese.md)
+[Read the essay →](Atomreaktorok-hutese.md)
 
 ---
 
