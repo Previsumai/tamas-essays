@@ -24,7 +24,7 @@ Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fo
 
 Átfogó tudományos esszé az immun-onkológia alapjairól, a daganatos ellenálló képességről, az ellenőrzőpont-gátló terápiákról és a személyre szabott 3D organoid modellekről
 
-[Read the essay →](A-korrodaciorol.md)
+[Read the essay →](A-22-es-csapdaja.md)
 
 ---
 
