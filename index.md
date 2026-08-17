@@ -18,13 +18,25 @@ Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fo
 
 ### Publication
 
-# A "2-es csapdája
+# A 22-es csapdája
 
 ### Hogyan védekezik az immunrendszer a tumor ellen? vs Hogyan védekezik a tumor az immunrendszer ellen?
 
 Átfogó tudományos esszé az immun-onkológia alapjairól, a daganatos ellenálló képességről, az ellenőrzőpont-gátló terápiákról és a személyre szabott 3D organoid modellekről
 
 [Read the essay →](A-korrodaciorol.md)
+
+---
+
+### Publication
+
+# Az Atomerőművek hűtése, Szerkezete és Jövője
+
+### Az Atomerőműtől az Adatközpontok Szimbiózisáig
+
+Tudományos-ismeretterjesztő tanulmány - Tájékoztatás és gondolatébresztés céljára
+
+[Read the essay →](Atomeromuvek-hutese.md)
 
 ---
 
