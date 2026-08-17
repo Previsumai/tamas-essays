@@ -34,7 +34,7 @@ Esszé és geopolitikai látlelet a digitális szuverenitásról, a földrajz fo
 
 ### Az Atomerőműtől az Adatközpontok Szimbiózisáig
 
-Tudományos-ismeretterjesztő tanulmány - Tájékoztatás és gondolatébresztés céljára
+Tudományos-ismeretterjesztő tanulmány az atomreaktorok hűtéséről és az adatközpontokkal való potenciális kooperációról
 
 [Read the essay →](Atomeromuvek-hutese.md)
 
