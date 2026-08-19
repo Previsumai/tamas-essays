@@ -50,7 +50,7 @@ Az immunrendszer nyomása szelektálja ki a legellenállóbb rákos klónokat, v
 
 ## Download the full essay
 
-📄 [Download the full essay PDF](pdf/Tamas-Regenyi-A-cethal-hatan-2026.pdf)
+📄 [Download the full essay PDF](pdf/Tamas-Regenyi-A-22-es-csapdaja-2026.pdf)
 
 ---
 
