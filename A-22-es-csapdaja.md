@@ -15,7 +15,7 @@
 
 ## Executive Summary
 
-xxx
+Ez az akadémiai esszé **a modern immun-onkológia** legfontosabb evolúciós és molekuláris mechanizmusait mutatja be, részletesen elemezve a gazdaszervezet védelmi rendszere és a malignus daganatok közötti biológiai fegyverkezési versenyt. A dolgozat öt fejezeten keresztül tárgyalja **a rák-immun ciklust**, **az immun-rejtőzködés** és **az adaptív rezisztencia mechanizmusait***, valamint **az ellenőrzőpont-gátlók klinikai alkalmazását** és **a jövőbeli precíziós onkológiai eljárásokat**.
 
 ### 🔑 Főbb Megállapítások
 
