@@ -6,6 +6,16 @@
 
 ### Latest Publication
 
+# A fehérje és az AI
+
+### Mit hoz a jövő?
+
+Esszé
+
+[Read the essay →](A-feherje-es-az-AI.md)
+
+---
+
 # A cethal hátán
 
 ### Európa technológiai illúziói és a globális polikrízis realizmusa
