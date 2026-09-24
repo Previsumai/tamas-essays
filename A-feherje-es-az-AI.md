@@ -52,7 +52,7 @@ Ez a dinamika rávilágít arra, hogy a biológiai hanyatlás elleni küzdelembe
 
 ## Download the full essay
 
-📄 [Download the full essay PDF](pdf/Tamas-Regenyi-A-feherje-es-a-AI-2026.pdf)
+📄 [Download the full essay PDF](pdf/Tamas-Regenyi-A-feherje-es-az-AI-2026.pdf)
 
 ---
 
